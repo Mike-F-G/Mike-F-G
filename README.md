@@ -1,9 +1,9 @@
-### Hi there I’m @Mike-F-G 👋
+### Hi there I’m @[Mike-F-G](https://github.com/Mike-F-G) 👋
 
 <!--
 **Mike-F-G/Mike-F-G** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-- 🔭 I’m currently working on @graalsystems
+- 🔭 I’m currently working on @[graalsystems](https://github.com/graalsystems)
 - 👀 I’m interested in everything
 - 🌱 I’m currently learning everyday
 - 💬 Ask me about anything
